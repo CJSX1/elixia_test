@@ -19,3 +19,4 @@
 
 - Run php artisan jwt:secret to generate JWT token.
 
+- Login details are john@gmail.com and passcode: user123
