@@ -1,4 +1,3 @@
-<p align="center"><img src="https://avatars2.githubusercontent.com/u/36782484?s=460&u=6b69ad0e9153479f8436ffc3d456a37165a0df37&v=4" width="400"></p>
 
 ## Project Set Up
 
